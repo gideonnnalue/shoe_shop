@@ -1,0 +1,19 @@
+.env
+debug.log
+
+# testing
+/coverage
+
+# production
+
+/node_modules
+
+
+
+./coverage
+
+./build
+./debug.log
+
+
+./node_modules
