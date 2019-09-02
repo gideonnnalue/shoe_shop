@@ -6,6 +6,8 @@ debug.log
 
 # production
 
+./node_modules
+
 /node_modules
 
 
@@ -16,4 +18,3 @@ debug.log
 ./debug.log
 
 
-./node_modules

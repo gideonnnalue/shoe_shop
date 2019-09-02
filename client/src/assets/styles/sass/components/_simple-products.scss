@@ -1,0 +1,16 @@
+.simple-products {
+  &__heading {
+    display: flex;
+    align-items: baseline;
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: $color-dark-2;
+      padding-right: 2rem;
+    }
+    p {
+      font-size: 1.5rem;
+      color: $color-primary;
+    }
+  }
+}
